@@ -1,0 +1,19 @@
+{
+  "name": "nuxtjs-with-typescript-example-template",
+  "version": "1.0.0",
+  "description": "Nuxt.js with TypeScript example template",
+  "private": true,
+  "engines": {
+    "node": ">=16.11.0"
+  },
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.12"
+  }
+}
