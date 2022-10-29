@@ -9,3 +9,27 @@
     </nav>
   </header>
 </template>
+
+<style scoped lang="scss">
+header {
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+  padding: 0.2rem;
+  nav {
+    ul {
+      list-style: none;
+      display: flex;
+      align-items: center;
+      
+      li {
+        margin-right: 1rem;
+
+        a {
+          color: #fff;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+</style>
