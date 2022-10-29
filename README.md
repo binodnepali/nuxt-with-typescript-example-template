@@ -1,10 +1,10 @@
 # NuxtJS With Typescript Example Template
 
-An example template made using [Nuxt.js](https://v3.nuxtjs.org) and Typescript to start a new project. The template is setup with Prettier, ESLint, StyleLint and Lint Staged.
+An example template scaffolded using [Nuxt.js](https://v3.nuxtjs.org) with Typescript and [sass](https://sass-lang.com/) to start a new project.
 
 ## Why this template
 
-I made this template because I have to set up every time Prettier, ESLint, StyleLint and Lint Staged for my new Nuxt.js projects. And I thought this might be useful for developers who are looking for configuration or starter or example templates.
+This template includes developer experience plugins suchas prettier, eslint, stylelint and lint-staged.
 
 ## Before getting started
 
