@@ -12,7 +12,7 @@ const date = ref(new Date())
 
 <style scoped lang="scss">
 div {
-  background-color: rgb(38, 38, 38);
+  background-color: black;
   color: #fff;
   padding: 0.2rem;
 

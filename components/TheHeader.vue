@@ -18,7 +18,7 @@
 
 <style scoped lang="scss">
 header {
-  background-color: rgb(0, 0, 0);
+  background-color: black;
   color: #fff;
   padding: 0.2rem;
 
