@@ -7,7 +7,7 @@
 </template>
 
 <script setup lang="ts">
-const date = ref(new Date());
+const date = ref(new Date())
 </script>
 
 <style scoped lang="scss">

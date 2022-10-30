@@ -7,5 +7,5 @@
 <script setup>
 const {
   params: { id },
-} = useRoute();
+} = useRoute()
 </script>
