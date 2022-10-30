@@ -8,8 +8,6 @@
 
 <script setup lang="ts">
 const date = ref(new Date())
-
-console.log(date.value)
 </script>
 
 <style scoped lang="scss">
