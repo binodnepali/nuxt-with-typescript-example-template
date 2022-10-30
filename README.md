@@ -21,8 +21,10 @@ You can setup this project using npm or yarn package managers.
 ### Clone repo
 
 ```bash
+# https
 git clone https://github.com/binodnepali/nuxtjs-with-typescript-example-template.git
-#or
+
+# ssh
 git clone git@github.com:binodnepali/nuxtjs-with-typescript-example-template.git
 ```
 
@@ -76,6 +78,70 @@ yarn preview
 
 # npm
 npm run preview
+```
+
+### Lint
+
+```bash
+# yarn
+yarn lint
+
+# npm
+npm run lint
+```
+
+### Lint fix
+
+```bash
+# yarn
+yarn lint:fix
+
+# npm
+npm run lint:fix
+```
+
+### Lint style
+
+```bash
+# yarn
+yarn lint:style
+
+# npm
+npm run lint:style
+```
+
+### Lint style fix
+
+```bash
+# yarn
+yarn lint:style:fix
+
+# npm
+npm run lint:style:fix
+```
+
+### Commit
+
+Open interactive terminal to write conventional commit message
+
+```bash
+# yarn
+yarn commit
+
+# npm
+npm run commit
+```
+
+### Release
+
+Create a release tag and generates change log based on commit history
+
+```bash
+# yarn
+yarn release
+
+# npm
+npm run release
 ```
 
 ## References
