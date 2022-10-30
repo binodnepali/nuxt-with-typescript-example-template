@@ -13,6 +13,7 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "lint": "eslint --ext .ts,.js,.vue .",
+    "lint:fix": "eslint --ext .ts,.js,.vue . --fix",
     "lint:style": "stylelint **/*.{css,scss,sass,html,vue}",
     "lint:style:fix": "stylelint **/*.{css,scss,sass,html,vue} --fix",
     "prepare": "husky install"
