@@ -6,7 +6,7 @@ An example template scaffolded using [Nuxt.js](https://v3.nuxtjs.org) with Types
 
 ## Why this template
 
-This template includes developer experience plugins suchas prettier, eslint, stylelint and lint-staged.
+This template includes pre-installed plugins suchas [prettier](https://prettier.io/), [eslint](https://eslint.org/), [stylelint](https://stylelint.io/), [lint-staged](https://github.com/okonet/lint-staged), [commitlint](https://commitlint.js.org/) and [standard version](https://github.com/conventional-changelog/standard-version) which helps to maintain project code quality.
 
 ## Before getting started
 
