@@ -1,5 +1,7 @@
 # NuxtJS With Typescript Example Template
 
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 An example template scaffolded using [Nuxt.js](https://v3.nuxtjs.org) with Typescript and [sass](https://sass-lang.com/) to start a new project.
 
 ## Why this template
