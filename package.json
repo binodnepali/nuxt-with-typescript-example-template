@@ -4,7 +4,7 @@
   "description": "Nuxt with typeScript example template",
   "private": true,
   "engines": {
-    "node": ">=16.11.0"
+    "node": ">=16.10.0"
   },
   "scripts": {
     "build": "nuxt build",
