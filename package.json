@@ -18,7 +18,8 @@
     "lint:style:fix": "stylelint **/*.{css,scss,sass,html,vue} --fix",
     "prepare": "husky install",
     "commit": "git-cz",
-    "release": "standard-version"
+    "release": "standard-version",
+    "git:push": "rm pnpm-lock.yaml &&  git push --follow-tags origin main"
   },
   "config": {
     "commitizen": {
